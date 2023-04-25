@@ -1,3 +1,3 @@
-Quote generator project.
+Infinity scroll project.
 
-Start here
+Start [here](https://melbi4ka.github.io/Infinity_scroll/)
